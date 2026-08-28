@@ -66,25 +66,11 @@ We are the Computational and Plant Biology Lab at RWTH Aachen University, buildi
 This organisation hosts the software, models, and course material that come out of the lab — most of it built around our `mxl` ecosystem for mechanistic learning.
 
 <p align="center">
-  <table align="center" cellpadding="8" cellspacing="8" border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Computational-Biology-Aachen/MxlPy">
-          <img src="assets/card-mxlpy.svg" width="260" alt="MxlPy — build mechanistic learning models easily" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Computational-Biology-Aachen/mxl-web">
-          <img src="assets/card-mxlweb.svg" width="260" alt="mxl-web — run ODE models directly in the browser" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Computational-Biology-Aachen/green-sloth">
-          <img src="assets/card-greensloth.svg" width="260" alt="GreenSloth — curated database of photosynthesis ODE models" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://computational-biology-aachen.github.io/MxlPy/"><img src="assets/card-mxlpy.svg" width="260" alt="MxlPy — build mechanistic learning models easily" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://computational-biology-aachen.github.io/mxl-web"><img src="assets/card-mxlweb.svg" width="260" alt="mxl-web — run ODE models directly in the browser" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://computational-biology-aachen.github.io/green-sloth"><img src="assets/card-greensloth.svg" width="260" alt="GreenSloth — curated database of photosynthesis ODE models" /></a>
 </p>
 
 [🔗 cpbl.rwth-aachen.de](https://www.cpbl.rwth-aachen.de/) · [🌐 Lab website](https://computational-biology-aachen.github.io/) · 📍 Worringerweg 1, 52074 Aachen
